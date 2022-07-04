@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <types_of_testing>"Functional, Smoke, Regression, Cross-browser testing"</types_of_testing>
-<test documentation>"Bug reports, Test cases, Check lists"</test documentation>
+<test_documentation>"Bug reports, Test cases, Check lists"</test_documentation>
 <tools>"Chrome DevTools, REST API Testing, Postman, JSON, XML, Client-server architecture, HTTP, linux, Git, SQL"</tools>
 </xml>
