@@ -1,1 +1,10 @@
-
+<?xml version="1.0"?>
+<Bug_id>01</Bug_id>
+<Title>"User can’t login"</Title>
+<Severity>"major"</Severity>
+<Priority>"major"</Priority>
+<Environment>"Windows 10, Google Chrome"</Environment>
+<Steps_to_reproduce>"1...; 2...; 3...;"</Steps_to_reproduce>
+<Actual_result>"User can’t login"</Actual_result>
+<Expected_result>"User is logged in"</Expected_result>
+</xml>
